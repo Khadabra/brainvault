@@ -1,0 +1,6 @@
+{
+  "name": "BrainVault AI",
+  "description": "Enterprise Document Intelligence Workspace to analyze, compare, and audit highly technical files",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
